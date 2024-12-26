@@ -405,7 +405,7 @@ const LinkInput = () => {
 
 
 
-      navigate("/product", {
+      navigate("/ProductDetail", {
         state: {
           product: {
             image: product_details.image || null,
